@@ -10,7 +10,8 @@ def add():
     print(result)
 
 def mul():
-    pass
+    result = first_no * second_no
+    print(result)
 
 def div():
     pass
@@ -25,6 +26,7 @@ if __name__ == '__main__':
 
     # call addition
     add()
+    mul()
 
 
 
